@@ -13,6 +13,7 @@ function App() {
     <div>
       <h1>Weather App</h1>
       <Input placeholder="Enter City Name" />
+      <br></br>
       <Button value="Search"/>
       <Card />
       <Button value="Refresh" />
